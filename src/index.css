@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+.active {
+    @apply text-[#e5e5e5]
+}
